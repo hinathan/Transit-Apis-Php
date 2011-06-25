@@ -1,0 +1,7 @@
+bart-php
+
+Simple php wrappers for quick info about BART.
+The intent here is to add a few more agencies, and let this serve
+as a simple way to extract transit reports for e.g. a home/office
+ambient display or a company's status screen.
+
